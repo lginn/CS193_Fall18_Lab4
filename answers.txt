@@ -1,12 +1,8 @@
 Task 1:
 
 // Under this line write a message to yourself from GitHub
-Hello World!
 
 Hello World!
-
-Hello World!
-branch-C
 
 // Under this line, describe what the command 'git fetch' does
 
