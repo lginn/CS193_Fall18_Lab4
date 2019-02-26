@@ -27,5 +27,7 @@ Hello branch-B!
 
 // Under this line, write a message to yourself from the branch 'branch-C'
 
+Hello branch-C!
+
 // END OF LAB 4
 
