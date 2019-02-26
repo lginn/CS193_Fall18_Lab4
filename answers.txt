@@ -3,6 +3,8 @@ Task 1:
 // Under this line write a message to yourself from GitHub
 Hello World!
 
+Hello World!
+
 // Under this line, describe what the command 'git fetch' does
 
 'git fetch' tells git to check the remote server for changes in the remote server's files.
